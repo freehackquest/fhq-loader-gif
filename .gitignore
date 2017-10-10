@@ -1,0 +1,8 @@
+loader.png
+tmp/*
+gif/*
+.qmake.stash
+Makefile
+qrc_fhqloader.cpp
+fhqloader
+
